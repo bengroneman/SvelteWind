@@ -27,4 +27,5 @@ You can preview the production build with `npm run preview`.
 
 ## Resources
 
-> [tailwind](https://tailwindcss.com) > [svelte](https://svelte.dev)
+> [tailwind](https://tailwindcss.com)
+> [svelte](https://svelte.dev)
